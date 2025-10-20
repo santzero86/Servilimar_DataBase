@@ -57,9 +57,9 @@ VALUES
 --Turnos
 INSERT INTO Turno (empleado_id, usuario_id, servicio_id, fecha, hora_inicio, hora_fin, estado)
 VALUES
-(1, 3, 1, '2025-10-18', '08:00', '12:00', 'Completado'),
-(2, 5, 3, '2025-10-18', '09:00', '13:00', 'Pendiente'),
-(3, 1, 2, '2025-10-18', '10:00', '14:00', 'En proceso');
+(1, 3, 1, '2025-10-18', '08:00:00', '12:00:00', 'Completado'),
+(2, 5, 3, '2025-10-18', '09:00:00', '13:00:00', 'Pendiente'),
+(3, 1, 2, '2025-10-18', '10:00:00', '14:00:00', 'En proceso');
 
 --Medios
 INSERT INTO Medio (medio_id, nombre)
@@ -71,6 +71,6 @@ VALUES
 --Notificaciones
 INSERT INTO Notificacion (notificacion_id, usuario_id, medio_id, mensaje, fecha_envio, estado)
 VALUES
-(1, 3, 1, 'Su turno ha sido confirmado', '2025-10-18', 'Enviado'),
-(2, 5, 2, 'Recuerde su cita de hoy', '2025-10-18', 'Pendiente'),
-(3, 1, 3, 'Gracias por usar Servilimar', '2025-10-18', 'Enviado');
+(1, 3, 1, 'Su turno ha sido confirmado', '2025-10-18 08:15:00', 'Enviado'),
+(2, 5, 2, 'Recuerde su cita de hoy', '2025-10-18 10:35:00', 'Pendiente'),
+(3, 1, 3, 'Gracias por usar Servilimar', '2025-10-18 11:10:00', 'Enviado');

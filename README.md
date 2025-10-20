@@ -32,7 +32,8 @@ registros en los archivos adjuntos Registros y Tablas.
 -Pegar las tablas y Registros dentro de Query Tool:
 ![captura](./recursos/imagen4.png)
 
-
+-Resultado cuando se realizan consultas:
+![captura](./recursos/imagen5.png)
 
 
 

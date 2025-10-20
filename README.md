@@ -20,10 +20,10 @@ http://localhost:5050/login
 -En el login ingrese, el usuario y contraseña que se estableció en el segundo comando(usuario@servilimar.com, limar#123).
 
 -Una  vez en postgres, de click derecho sobre server, register> server, asignas un nombre de tu preferencia:
-![Captura](1.png)
+![alt text](1.png)
 
 -Ingresa los siguientes datos(password: ex4men_db):
-![Captura](2.png)
+![alt text](2.png)
 
 
 

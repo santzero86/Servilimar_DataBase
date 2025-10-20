@@ -29,8 +29,8 @@ http://localhost:5050/login
 registros en los archivos adjuntos Registros y Tablas.
 ![captura](./recursos/imagen3.png)
 
-
-
+-Pegar las tablas y Registros dentro de Query Tool:
+![captura](./recursos/imagen4.png)
 
 
 

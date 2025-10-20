@@ -25,7 +25,7 @@ http://localhost:5050/login
 -Ingresa los siguientes datos(password: ex4men_db):
 ![captura](./recursos/imagen2.png)
 
--Sigue la siguiente ruta hasta llegar a querytool, aquí solo debes copiar y pegar las tablas y 
+-Sigue la siguiente ruta hasta llegar a Query Tool, aquí solo debes copiar y pegar las tablas y 
 registros en los archivos adjuntos Registros y Tablas.
 ![captura](./recursos/imagen3.png)
 

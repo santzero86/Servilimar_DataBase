@@ -8,7 +8,7 @@ Incluye las instrucciones de creación (DDL) e inserción (DML) de tablas para l
 
 ## Instrucciones:
 -Crear contenedor de postgres sql(Si usa windows, después de ejecutar este comando, 
-deberá abrir una nueva pestaña del terminal para ejecutar el siguiente comando, y dejar ejecutando esta):
+deberá abrir una nueva pestaña del terminal para ejecutar el siguiente comando, No cierre la actual):
 docker run --name database_course -e POSTGRES_USER=ulimar -e POSTGRES_PASSWORD=ex4men_db -p 5432:5432 postgres:14
 
 -Crear contenedor de pgadmin:

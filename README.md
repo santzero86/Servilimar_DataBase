@@ -4,7 +4,7 @@ utilizando Docker, PostgreSQL 14 y pgAdmin 4.
 Incluye las instrucciones de creación (DDL) e inserción (DML) de tablas para la base de datos servilimar.
 
 ## Requisitos:
--Tener intalado Docker.
+-Tener instalado Docker.
 
 ## Instrucciones:
 -Crear contenedor de postgres sql(Si usa windows, después de ejecutar este comando, 
